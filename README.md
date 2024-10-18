@@ -18,6 +18,10 @@ Load python environment
 .\venv\Scripts\activate
 ```
 
+```sh
+pip install -r requirements.txt
+```
+
 ```
 func start
 ```
